@@ -1,0 +1,6 @@
+@ImageManipulationApi_HostAddress = http://localhost:5109
+
+GET {{ImageManipulationApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
